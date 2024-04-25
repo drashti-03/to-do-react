@@ -1,0 +1,12 @@
+input {
+  width: 80%;
+  height: 100%;
+}
+
+.buttonn {
+  min-width: 80px;
+}
+
+.add {
+  margin: 10px 5px;
+}
